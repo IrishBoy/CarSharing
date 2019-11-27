@@ -1,0 +1,29 @@
+[
+  {
+    "User": null,
+    "Car": null,
+    "StartDt": "0001-01-01T00:00:00",
+    "EndDt": null,
+    "StartLocation": null,
+    "EndLocation": null,
+    "TotalCost": null
+  },
+  {
+    "User": null,
+    "Car": null,
+    "StartDt": "0001-01-01T00:00:00",
+    "EndDt": null,
+    "StartLocation": null,
+    "EndLocation": null,
+    "TotalCost": null
+  },
+  {
+    "User": null,
+    "Car": null,
+    "StartDt": "0001-01-01T00:00:00",
+    "EndDt": null,
+    "StartLocation": null,
+    "EndLocation": null,
+    "TotalCost": null
+  }
+]

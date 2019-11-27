@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 0,
+    "Model": {
+      "Id": 1,
+      "Name": "Kia Rio",
+      "Manufacturer": "Kia",
+      "Rate": 7
+    },
+    "CarPlateNumber": null,
+    "Location": {
+      "Latitude": 55.7787,
+      "Longitude": 37.73224
+    },
+    "FuelLeft": 56.0
+  },
+  {
+    "Id": 0,
+    "Model": {
+      "Id": 7,
+      "Name": "Lada Granta",
+      "Manufacturer": "Lada",
+      "Rate": 6
+    },
+    "CarPlateNumber": null,
+    "Location": {
+      "Latitude": 36.7787,
+      "Longitude": 76.73224
+    },
+    "FuelLeft": 48.0
+  },
+  {
+    "Id": 0,
+    "Model": {
+      "Id": 1,
+      "Name": "Kia Rio",
+      "Manufacturer": "Kia",
+      "Rate": 7
+    },
+    "CarPlateNumber": null,
+    "Location": {
+      "Latitude": 37.7787,
+      "Longitude": 63.73224
+    },
+    "FuelLeft": 65.0
+  }
+]
