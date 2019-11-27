@@ -1,0 +1,16 @@
+﻿<Window x:Class="CarSharing.GraphUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarSharing.GraphUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Name="welcomeTextBlock" Margin="15" FontSize="18">Добро пожаловать, </TextBlock>
+            <ListBox Name="listBoxCars" DisplayMemberPath="Model.Name" HorizontalAlignment="Stretch" Background="Bisque" Margin="15"></ListBox>
+            <DataGrid Name="modelsDataGrid" AutoGenerateColumns="True" Margin="15"></DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

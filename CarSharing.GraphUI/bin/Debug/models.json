@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Kia Rio",
+    "Manufacturer": "Kia",
+    "Rate": 7
+  },
+  {
+    "Id": 7,
+    "Name": "Lada Granta",
+    "Manufacturer": "Lada",
+    "Rate": 6
+  }
+]
